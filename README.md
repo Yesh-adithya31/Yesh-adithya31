@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Yesh-adithya31
-- 👀 I’m interested in WEB iOS Mobile APP developments
-- 🌱 I’m currently learning B.Sc(Applied Sciences) and B.Sc Computing(UG)
-- 💞️ I’m looking to collaborate on Upcoming technology so on
-- 📫 How to reach me email : yesh.adithya31@gmail.com
+### 👋 Hi, I’m @Yesh-adithya31
 
-<!---
-Yesh-adithya31/Yesh-adithya31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+**STEPHEN-INNOVATIONS/STEPHEN-INNOVATIONS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yesh-adithya31&hide=css,php,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Hashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yesh-adithya31&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
