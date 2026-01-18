@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yesh-adithya31&label=Profile%20views&color=0e75b6&style=flat" alt="yesh-adithya31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/57474408?v=4" alt="yesh-adithya31" /></a> </p>
-
 - 🌱 I’m currently learning **Bachelor of Sciences (Joint Major) - Computing & Information Systems and Mathematical Modelling & Statistics**
 
 - 👨‍💻 All of my projects are available at [https://yesh-adithya31.github.io/yesh-adithya/](https://yesh-adithya31.github.io/yesh-adithya/)
@@ -25,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yesh-adithya31&show_icons=true&locale=en" alt="yesh-adithya31" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yesh-adithya31&" alt="yesh-adithya31" /></p>
